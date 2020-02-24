@@ -1,0 +1,5 @@
+<VirtualHost *:80> 
+    DocumentRoot /usr/local/vufind/public
+    ServerName vufind.localhost.com
+    ServerAlias www.vufind.localhost.com
+</VirtualHost>
